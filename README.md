@@ -35,6 +35,7 @@ Desktop view:
 Mobile View:
 
 ![](screenshot-mobile-375px.jpg)
+:
 ![](screenshot-mobile-375px-2.jpg)
 
 
