@@ -30,7 +30,7 @@ Users should be able to:
 ### Screenshot
 Desktop view:
 
-![](./screenshot-destop-1440px.jpg)
+![](screenshot-destop-1440px.jpg)
 
 Mobile View:
 
