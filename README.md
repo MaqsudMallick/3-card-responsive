@@ -30,18 +30,18 @@ Users should be able to:
 ### Screenshot
 Desktop view:
 
-![](./screenshot-destop-1440px.png)
+![](./screenshot-destop-1440px.jpg)
 
 Mobile View:
 
-![](screenshot-mobile-375px.png)
-![](screenshot-mobile-375px-2.png)
+![](screenshot-mobile-375px.jpg)
+![](screenshot-mobile-375px-2.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/MaqsudMallick/3-card-responsive
+- Live Site URL: (https://maqsudmallick.github.io/3-card-responsive/)
 
 ## My process
 
