@@ -65,4 +65,4 @@ Mobile View:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MaqsudMallick](https://www.frontendmentor.io/profile/MaqsudMallick)
